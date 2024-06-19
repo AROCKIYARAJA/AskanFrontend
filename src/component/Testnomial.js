@@ -13,7 +13,7 @@ function Testnomial() {
 
     return (
         <div className='mt-20 '>
-            <div className="text-[1.2rem] text-center text-gray-400 font-[500]">Testnomial</div>
+            <div className="text-[1.2rem] text-center text-gray-400 font-[500]">Testimonials</div>
             <div className="md:text-[2rem] lg:text-[2.5rem] text-[1.5rem] text-center text-orange-900 font-[700] font-roman">What our Buyers Say</div>
             <div className={` snap-x flex mmd:items-center mmd:justify-center gap-5 md:gap-7 lg:gap-7 mmd:overflow-x-hidden overflow-x-scroll mmd:flex-wrap w-[1400px] px-10 duration-300 transition-all h-fit pb-10 mx-auto max-w-[100%] mmd:mt-10 mt-10`}>
                 {
